@@ -1,2 +1,2 @@
 # HOLA MUNDO
-## 2026-curso_git_essentials
+## Curso Git Essentials 2026
